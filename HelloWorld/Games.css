@@ -1,0 +1,36 @@
+body{
+background-image:url(Call\ of\ duty\ image.jpg); 
+
+}
+
+h1{
+    color:turquoise; 
+    text-align: center;
+
+
+}
+h2{
+  color:whitesmoke; 
+
+}
+h3{
+    color:crimson; 
+
+}
+#ColorList{
+
+    color:deepskyblue;
+}
+#Demo{
+    color:darkturquoise; 
+}
+#Saturn{
+      color:whitesmoke; 
+}
+.tony{
+    font-size:large; 
+    color:white;  
+}
+#Buzz a{
+     color:white; 
+}
